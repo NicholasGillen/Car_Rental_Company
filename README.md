@@ -1,7 +1,5 @@
 # Car_Rental_Company
 
-Car Rental Company:
-
 This is a simple program that models the basic functionality of a car rental company. Different types of rental cars can be provided to eligible customers, and the program keeps track of which cars are currently being rented 
 
 and their customers' details, as well as simulating 'car journeys' and the associated fuel requirements/usage. 
